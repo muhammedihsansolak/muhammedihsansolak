@@ -19,3 +19,4 @@ Framework, and Microservices Architecture. My interest lies in learning new tech
 ## 🥷 Open Source Projects
 
 [![ticketing-project-restful](https://github-readme-stats.vercel.app/api/pin/?username=muhammedihsansolak&repo=ticketing-project-restful&theme=dracula)](https://github.com/muhammedihsansolak/ticketing-project-restful)
+[![ticketing-project-mvc-ui](https://github-readme-stats.vercel.app/api/pin/?username=muhammedihsansolak&repo=ticketing-project-mvc-ui&theme=dracula)](https://github.com/muhammedihsansolak/ticketing-project-mvc-ui)
