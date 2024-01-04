@@ -14,9 +14,3 @@ Framework, and Microservices Architecture. My interest lies in learning new tech
 -  **FrontEnd:**  Bootstrap, Thymeleaf, HTML, CSS
 -  **Database:** Relational Database (PostgreSQL) 
 
-
-## 🥷 Open Source Projects
-
-[![ticketing-project-restful](https://github-readme-stats.vercel.app/api/pin/?username=muhammedihsansolak&repo=ticketing-project-restful&theme=dracula)](https://github.com/muhammedihsansolak/ticketing-project-restful)
-[![ticketing-project-mvc-ui](https://github-readme-stats.vercel.app/api/pin/?username=muhammedihsansolak&repo=ticketing-project-mvc-ui)](https://github.com/muhammedihsansolak/ticketing-project-mvc-ui)
-[![ticketing-project-microservices](https://github-readme-stats.vercel.app/api/pin/?username=muhammedihsansolak&repo=ticketing-project-microservices)](https://github.com/muhammedihsansolak/ticketing-project-microservices)
