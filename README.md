@@ -9,8 +9,8 @@ Framework, and Microservices Architecture. My interest lies in learning new tech
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  Java, Spring Framework, Microservices Architecture
+-  **Backend:**  Java, Spring Framework, Microservices Architecture
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, CircleCI
--  **FrontEnd:**  Bootstrap, Thymeleaf, HTML, CSS
+-  **Frontend:**  Bootstrap, Thymeleaf, HTML, CSS
 -  **Database:** Relational Database (PostgreSQL) 
 
